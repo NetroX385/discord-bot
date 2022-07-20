@@ -1,0 +1,15 @@
+{
+  "name": "bot-discord-netrox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NetroX",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.9.0",
+    "fs": "^0.0.1-security"
+  }
+}
